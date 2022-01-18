@@ -16,4 +16,4 @@ public class Factorial {
 }
 
 Output
-Factorial of 5 = 120
+Factorial of 6 = 720
