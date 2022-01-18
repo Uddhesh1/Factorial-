@@ -1,4 +1,4 @@
-# Factorial-
+# Factorial_number-
 
 public class Factorial {
 
